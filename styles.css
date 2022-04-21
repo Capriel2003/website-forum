@@ -34,18 +34,18 @@ body {
 }
 
 #area-principal {
-	width: 920px;
+	width: 1080px;
 	margin: 0 auto;
 	padding: 15px;
 }
 
 #area-postagens {
-	width: 660px;
+	width: 705px;
 	float: left;
 }
 
 #area-lateral {
-	width: 235px;	
+	width: 345px;	
 	float: right;
 }
 
